@@ -1,6 +1,6 @@
-html,body{font-family: 'Cairo', sans-serif;height: 100%;width: 100%;background-image: url(../img/bg.png); background-color: #6d517e}
-.btn-outline-success{border-radius: 25px;background-color: #b55169;color: white;border-color: #b55169;width: -webkit-fill-available;}
-.btn-outline-success:hover{background-color: #6e3643;border-color: #6e3643}
+html,body{font-family: 'Cairo', sans-serif;height: 100%;width: 100%;background-image: url(../img/bg.jpg); background-color: #6d517e}
+.btn-outline-success{border-radius: 25px;background-color: #965E7F;color: white;border-color: #965E7F;width: -webkit-fill-available;}
+.btn-outline-success:hover{background-color: #462E3C;border-color: #462E3C}
 .main h1,h5,p{color: white;}
 .col-md-6 h1{padding-top: 150px}
 
